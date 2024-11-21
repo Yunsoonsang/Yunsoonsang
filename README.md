@@ -2,7 +2,7 @@
 
 ## Who I am?
 - **이름:** 윤순상 (SoonSang Yun)
-- **출생** 1998.08.18 (25)
+- **출생** 1998.08.18 (26)
 - **지역:** Korea, Seoul
 
 ## Career
@@ -17,7 +17,7 @@
 - **초급 :** C, Java, SQL, JS
 
 ### Framework
-- **초급 :** Flask, React
+- **초급 :** Flask, React, FastAPI
 
 ### Cloud-Infra
 - Docker, Docker-swarm
