@@ -2,39 +2,45 @@
 
 ## Who I am?
 - **이름:** 윤순상 (SoonSang Yun)
-- **출생** 1998.08.18 (26)
+- **출생** 1998.08.18 (27)
 - **지역:** Korea, Seoul
 
 ## Career
-- RAPA 카카오 클라우드 스쿨 엔지니어 4기 (23.12.06 ~ 24.06.11)
-- 강원도 춘천 한림대학교 컴퓨터공학과 졸업 (18.02 ~ 24.02)
-- 빅데이터 & 콘텐츠IT 복수전공 (4.13 / 4.5)
 - 서울 청원고등학교 (14.02 ~ 17.01)
+- 강원도 춘천 한림대학교 컴퓨터공학과 졸업 (18.02 ~ 24.02)
+  - 빅데이터 & 콘텐츠IT 복수전공 (4.13 / 4.5)
+- RAPA 카카오 클라우드 스쿨 엔지니어 4기 (23.12.06 ~ 24.06.11)
+- Tmax Tibero TABA 7기 (24.12 ~ 25.02)
+- 클라우드 아카데미 CAB TA 4기 SRE & DevOps (25.03 ~ )
 
 ## Skills
-### Language
-- **중급 :** Shell, Python
-- **초급 :** C, Java, SQL, JS
-
-### Framework
-- **초급 :** Flask, React, FastAPI
-
-### Cloud-Infra
-- Docker, Docker-swarm
+### Strong
+- Python
+- AWS
+- Docker
+- Linux (Rocky, Ubuntu, Centos)
+  
+### Knowledgeable
+- MySQL
+- RESTful API
 - Kubernetes
-- IaC(terraform)
-- KVM, Openstack, AWS
+- Docker-Swarm
+- Grafana
+- Prometheus
+- Git
 
-### Monitoring
+### ETC
+- Fastapi
+- Django
 - ELK Stack
-- Prometheus, Grafana
-- Node-exporter, CAdvisor
-
-### CI/CD
-- Git, Ansible
-- Image Registry
-- Jenkins, Argocd
-- Sonarqube
+- Ansible
+- Terraform
+- MongoDB
+- PostgreSQL
+- Tibero
+- Jenkins
+- Argocd
+- KVM
 
 ## Projects
 1. **애플리케이션 개발 자동화 환경 제공 서비스**
